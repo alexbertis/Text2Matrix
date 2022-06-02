@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Text2Matrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Text2Matrix	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+displayTextInMatrix	KEYWORD2
+#drawRow	KEYWORD2
+#drawMatrix	KEYWORD2
+#textToMatrix	KEYWORD2
+#displayArrayMoving	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
